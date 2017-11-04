@@ -1,0 +1,14 @@
+c:\users\alexander\documents\visual studio 2015\Projects\Sistema de Nomina\Sistema de Nomina\bin\Debug\Sistema de Nomina.exe.config
+c:\users\alexander\documents\visual studio 2015\Projects\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema de Nomina.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2015\Projects\Sistema de Nomina\Sistema de Nomina\bin\Debug\Sistema de Nomina.exe
+c:\users\alexander\documents\visual studio 2015\Projects\Sistema de Nomina\Sistema de Nomina\bin\Debug\Sistema de Nomina.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.FrmEmpleados.resources
+c:\users\alexander\documents\visual studio 2015\Projects\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2015\Projects\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema de Nomina.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2015\Projects\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema de Nomina.exe
+c:\users\alexander\documents\visual studio 2015\Projects\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema de Nomina.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.ConsultaTransacciones.resources
+c:\users\alexander\documents\visual studio 2015\Projects\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.FrmTiposDeducciones.resources
+c:\users\alexander\documents\visual studio 2015\Projects\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.ConsultaAsientosContables.resources
+c:\users\alexander\documents\visual studio 2015\Projects\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.MenuPrincipal.resources
+c:\users\alexander\documents\visual studio 2015\Projects\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.FrmTiposDeIngreso.resources
